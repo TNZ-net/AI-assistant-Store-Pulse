@@ -18,8 +18,23 @@ Store Pulse is a full-stack inventory management dashboard for monitoring produc
 **Store Pulse Dashboard**
 
 <p align="center">
-  <img src="docs/dashboard.png" alt="Store Pulse inventory dashboard" width="800"><br>
-  <b>Figure 1.</b> Store Pulse inventory dashboard
+  <img src="https://github.com/user-attachments/assets/58e3fd45-0707-44ca-bb59-f4a6e7916dfd" alt="Store Pulse inventory dashboard" width="700">
+  <br>
+  <b>Figure 1. Store Pulse inventory dashboard</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d3a8aa8-1b09-4777-88da-50630f57bf3c" alt="Store Pulse inventory analytics" width="700">
+  <br>
+  <b>Figure 2. Inventory analytics and monitoring</b>
+</p>
+
+AI chatbot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97314d79-92c7-49c4-b15c-7ccde30e66c1" alt="Store Pulse AI chatbot" width="700">
+  <br>
+  <b>Figure 3. AI-powered inventory assistant</b>
 </p>
 
 - **Inventory:** product, SKU, category, price, stock and threshold information
